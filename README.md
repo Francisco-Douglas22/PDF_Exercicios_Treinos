@@ -1,2 +1,2 @@
-# PDF_Exercicios_Treinos
- PDFs, Listas de Exercicios e Treinos, JAVA, PYTHON, JAVAScript, SQL, MySQL etc...
+# Exercicios_Python_Java_JavaScript_SQL_etc
+ PDFs com Centenas de Exercicios para aplica em Todas as Linguagems de Programação
