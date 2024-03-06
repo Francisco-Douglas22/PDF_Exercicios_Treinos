@@ -1,2 +1,2 @@
-# Exercicios_Python_Java_JavaScript_SQL_etc
- PDFs com Centenas de Exercicios para aplica em Todas as Linguagems de Programação
+# PDFs_Exercicios_Programas
+ PDFs Contendo mais de 600 Exercicios e Treinos em Python, Java, JavaScript 
